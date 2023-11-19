@@ -1,4 +1,9 @@
 # Mental-Maths-Game
 A game to test your mental maths skills
 
-Will probably be updated at a later date
+# To Do List
+- Add More Stats
+- Seperate / Sortable Leaderboard
+- Option to Remove Negative Answers
+- More Complex Operations
+- Gamification / Rewards (?)
